@@ -20,5 +20,5 @@ Predict whether a machine is going to fail based on telemetry and sensor data �
 - ✅ Visualized feature importance for interpretability
 - ✅ Built clean, modular code ready for deployment or enhancement
 
-## 📁 Folder Structure
+
 
